@@ -1,4 +1,6 @@
 Public tracker for feature requests & bug reports for the Guilded Roblox Verification bot
+Please submit any [bug or feature requests here](https://github.com/InceptionTime/GuildedRobloxVerification/issues)
+
 
 Currently in closed testing. 
 After closed testing, I will potentially release the invite link to the public
@@ -19,10 +21,10 @@ If you want to gatekeep your Guilded server my recommendation is:
 
 
 ## What permissions does the bot need?
-* Read
-* Write
-* Write private messages/replies
-* Delete messages (Deletes the users !verify message)
+* Read messages
+* Send messages
+* Send private messages
+* Manage messages (Deletes the users !verify message)
 * Update nicknames
 
 You can limit the read and write permissions to certain channel permissions or to the role permissions
@@ -30,4 +32,5 @@ You can limit the read and write permissions to certain channel permissions or t
 ## What roles does the bot need?
 * 1 role named "Verified"
 
-Please submit any [bug or feature requests here](https://github.com/InceptionTime/GuildedRobloxVerification/issues)
+## Commands
+* !verify
