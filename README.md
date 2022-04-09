@@ -15,5 +15,7 @@ After closed testing, I will potentially release the invite link to the public
 * Delete messages (Deletes the users !verify message)
 * Update nicknames
 
+You can limit the read and write permissions to certain channel permissions or to the role permissions
+
 ## What roles does the bot need?
 * 1 role named "Verified"
