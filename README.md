@@ -5,6 +5,7 @@ Please submit any [bug or feature requests here](https://github.com/InceptionTim
 Currently in closed testing. 
 After closed testing, I will potentially release the invite link to the public
 
+Code for the bot will remain private.
 
 ## How does the bot work?
 * The bot checks to see if the user has linked their Roblox account to their Guilded account through Guilded connections.
