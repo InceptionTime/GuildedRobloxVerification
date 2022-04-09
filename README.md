@@ -19,3 +19,5 @@ You can limit the read and write permissions to certain channel permissions or t
 
 ## What roles does the bot need?
 * 1 role named "Verified"
+
+Please submit any [bug or feature requests here](https://github.com/InceptionTime/GuildedRobloxVerification/issues)
