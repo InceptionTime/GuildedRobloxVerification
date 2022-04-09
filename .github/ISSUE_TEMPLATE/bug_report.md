@@ -23,7 +23,7 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Guilded Server ID (please complete the following information):**
+**Guilded Server ID:**
 Right click your servers icon & click copy server ID
 
 **Additional context**
