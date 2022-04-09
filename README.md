@@ -1,4 +1,4 @@
-Public tracker for feature requests & bug reports for the Guilded Roblox Verification bot
+Public tracker for feature requests & bug reports for the Guilded Roblox Verification bot.
 Please submit any [bug or feature requests here](https://github.com/InceptionTime/GuildedRobloxVerification/issues)
 
 
