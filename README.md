@@ -27,6 +27,7 @@ If you want to gatekeep your Guilded server my recommendation is:
 * Send private messages
 * Manage messages (Deletes the users !verify message)
 * Update nicknames
+* Manage roles (to give out verified role)
 
 You can limit the read and write permissions to certain channel permissions or to the role permissions
 
