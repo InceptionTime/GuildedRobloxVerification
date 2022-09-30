@@ -5,11 +5,9 @@ https://www.guilded.gg/b/c0385537-2d9f-4c71-9cd6-78f46a26a337
 Public tracker for feature requests & bug reports for the Guilded Roblox Verification bot.
 Please submit any [bug or feature requests here](https://github.com/InceptionTime/GuildedRobloxVerification/issues)
 
-
-Currently in closed testing. 
-After closed testing, I will potentially release the invite link to the public
-
 Code for the bot will remain private.
+
+Click to view the (update logs)[https://github.com/InceptionTime/GuildedRobloxVerification/blob/main/Changelog.md]
 
 ## How does the bot work?
 * The bot checks to see if the user has linked their Roblox account to their Guilded account through Guilded connections.
