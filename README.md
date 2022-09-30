@@ -3,7 +3,7 @@ https://www.guilded.gg/b/c0385537-2d9f-4c71-9cd6-78f46a26a337
 
 <h1>Info</h1>
 Public tracker for feature requests & bug reports for the Guilded Roblox Verification bot.
-Please submit any [bug or feature requests here](https://github.com/InceptionTime/GuildedRobloxVerification/issues)
+Please submit any bug or feature requests [here](https://github.com/InceptionTime/GuildedRobloxVerification/issues)
 
 Code for the bot will remain private.
 
