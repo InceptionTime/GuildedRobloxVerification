@@ -7,7 +7,7 @@ Please submit any [bug or feature requests here](https://github.com/InceptionTim
 
 Code for the bot will remain private.
 
-Click to view the (update logs)[https://github.com/InceptionTime/GuildedRobloxVerification/blob/main/Changelog.md]
+Click to view the [update logs](https://github.com/InceptionTime/GuildedRobloxVerification/blob/main/Changelog.md)
 
 ## How does the bot work?
 * The bot checks to see if the user has linked their Roblox account to their Guilded account through Guilded connections.
