@@ -1,4 +1,4 @@
-<h1>Bot shutting down on Monday 3rd of February</h1>
+<h1>!!! Bot shutting down on Monday 3rd of February !!!</h1>
 
 <h1>Invite the bot with this link</h1>
 https://www.guilded.gg/b/c0385537-2d9f-4c71-9cd6-78f46a26a337
